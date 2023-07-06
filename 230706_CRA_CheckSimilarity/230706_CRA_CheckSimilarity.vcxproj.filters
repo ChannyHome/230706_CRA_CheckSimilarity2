@@ -27,5 +27,8 @@
     <ClCompile Include="CheckSimilar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="cal.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
